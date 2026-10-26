@@ -62,7 +62,7 @@ python -m pip install -r requirements.txt
 
 ```bash
 
-python pagerank\_app.py
+python PageRank.py
 
 ```
 
